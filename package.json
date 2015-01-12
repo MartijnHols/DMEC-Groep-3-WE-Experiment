@@ -1,0 +1,16 @@
+{
+  "name": "DMEC-Groep-3-WE-Experiment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/main.js",
+  "dependencies": {
+    "express": "^4.10.7",
+    "request": "^2.51.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
